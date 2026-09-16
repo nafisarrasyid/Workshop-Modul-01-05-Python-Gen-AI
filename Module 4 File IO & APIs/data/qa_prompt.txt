@@ -1,0 +1,4 @@
+You are a {role}.
+Answer the following question concisely.
+
+Question: {question}
