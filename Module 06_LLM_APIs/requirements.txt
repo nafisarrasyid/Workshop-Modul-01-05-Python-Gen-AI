@@ -1,0 +1,6 @@
+anthropic>=0.97.0
+openai>=2.32.0
+python-dotenv>=1.0.0
+numpy>=2.0.0
+pandas>=2.0.0
+voyageai>=0.3.0
