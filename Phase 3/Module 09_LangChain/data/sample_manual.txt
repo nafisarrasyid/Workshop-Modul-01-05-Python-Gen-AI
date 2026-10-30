@@ -1,0 +1,5 @@
+OmniRoute Architecture Manual
+
+OmniRoute acts as a local proxy multiplexing AI provider calls.
+It exposes an OpenAI-compatible /v1/chat/completions route.
+It transparently routes requests to local or remote endpoints.
